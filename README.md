@@ -15,7 +15,7 @@ This semester, I took a course in Museum Studies at the University of Michigan (
 Based on Moataz Anany's [Video Analyser](https://github.com/awslabs/amazon-rekognition-video-analyzer). Expanding on the original architecture, I adjusted various aspects to collect demographic data from AWS Rekognition, process and send to the user demo UI and to AWS Quicksight for rich visualisations
 
 My architecure is located in the root directory of the project (```/architecure.png```)
-(https://gitlab.eecs.umich.edu/pandasa/VisitorDemographicsIPCamera/blob/master/architecture.png)
+![Architecture](https://gitlab.eecs.umich.edu/pandasa/VisitorDemographicsIPCamera/blob/master/architecture.png)
 
 ## How start demo
 
