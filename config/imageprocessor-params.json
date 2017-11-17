@@ -1,0 +1,6 @@
+{
+	"s3_bucket" : "<NO-DEFAULT>",
+	"s3_key_frames_root" : "frames/",
+	"ddb_table" : "EnrichedFrame",
+	"timezone" : "US/Eastern"
+}
